@@ -84,9 +84,5 @@ class BarcodeScan : AppCompatActivity() {
         super.onResume()
         iniBc()
     }
-<<<<<<< HEAD
 }
-=======
-}
-hvghvjvjhvhvbhgvnggvnvgvgvgh
->>>>>>> 34e2fb0 (new update)
+hvghvjvjhvhvbhgvnggvnvgvgvghnbcghmf
